@@ -22,4 +22,4 @@ This repository contains the details and key takeaways that i am learning from t
 - CLASS RECORDINGS-
   - CLASS 1- 13 JUNE - https://drive.google.com/drive/folders/1RUKz_o-xxAgCHWRoAkLxJ4q1N0cKd4Ky?usp=sharing
   - CLASS 2- 16 JUNE - https://drive.google.com/drive/folders/1HMhG1EX2kVkyCMMv7NnmTfZj4GLhMDah?usp=sharing
-  - CLASS 3- 17 JUNE -
+  - CLASS 3- 17 JUNE - https://drive.google.com/drive/folders/1-BRN5sJiLEz-xJeOdq_YXDZlKNlKIkSz?usp=sharing
